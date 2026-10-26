@@ -1,0 +1,14 @@
+# Common editor and operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Temporary compiler output and debug artifacts
+*.o
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
